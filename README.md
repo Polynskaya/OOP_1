@@ -1,3 +1,2 @@
 # Yulia Polynskaya
-information systems and technologies 
-group 2
+ISiT group 2
